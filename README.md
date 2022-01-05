@@ -1,6 +1,6 @@
 <h2 align="center">Software Engineer | Mobile Developer Flutter 👨🏻‍💻</h2>
 
-<img align="right" src="https://github.com/Rubenscode/Rubenscode/blob/main/img/computer.png" width="350"/>
+<img align="right" src="https://github.com/jfelipe72/jfelipe72/blob/main/img/computer.png" width="350"/>
 
 
 
