@@ -1,12 +1,14 @@
-<h2 align="center">Software Engineer | Mobile Developer Flutter 👨🏻‍💻</h2>
+<h2 align="center">Software Engineer 👨🏻‍💻</h2>
 
 <img align="right" src="https://github.com/jfelipe72/jfelipe72/blob/main/img/computer.png" width="350"/>
 
-
-
 <br>
 
-### My Programming skills
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/jfelipe72)](https://github.com/jfelipe72)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rubens-almeida-andrade/)](https://www.linkedin.com/in/jfelipesantana)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:dev.jfelipe@gmail.com)](mailto:dev.jfelipe@gmail.com)<br>
+
+<!-- ### My Programming skills
 ![Dart Badge](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![NodeJS Badge](https://img.shields.io/badge/node.js-78b362.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter Badge](https://img.shields.io/badge/flutter-43caf5.svg?style=for-the-badge&logo=flutter&logoColor=white)
@@ -15,7 +17,7 @@
 ![CSS Badge](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP Badge](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-<br>
+<br> 
 
 ### My Databases skills
 ![MySQL Badge](https://img.shields.io/badge/mysql-003343.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -45,5 +47,5 @@
 <p align="left"> 
   <b>Visitor count</b><br>
   <img src="https://profile-counter.glitch.me/jfelipe72/count.svg" />
-</p>
+</p> -->
 
